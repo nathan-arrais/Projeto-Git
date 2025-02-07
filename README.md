@@ -1,2 +1,3 @@
 "# PetAdota" 
-"## API de CÆes - Informa‡äes sobre integra‡Æo" 
+"## API de Cï¿½es - Informaï¿½ï¿½es sobre integraï¿½ï¿½o" 
+"## API de Gatos - Informaï¿½ï¿½es sobre integraï¿½ï¿½o" 
